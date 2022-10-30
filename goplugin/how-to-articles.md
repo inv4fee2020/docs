@@ -49,7 +49,7 @@ While there are many platforms available that will provide various levels of mon
      This is a free service and provides basic ping and port checking monitor with email & app push notifications
 
   - [Netdata](https://www.netdata.cloud/)
-     This is a free service which provides detailed system & process monitoring with all historic data stored locally on the host system. So from a security perspective your node data stays on your node.
+     This is a free service which provides detailed system & process monitoring with all historic data stored locally on the host system. So from a security perspective your node data stays on your node. Also includes Machine Learning (ML) for anomoly detection.
 
     You can install netdata with configuration for monitoring the plugin node processes using the following script should you wish;
     https://github.com/inv4fee2020/pli_netdata
